@@ -1,22 +1,10 @@
-
-form{
-    text-align: center;
-    
+form {
+    margin: auto;
+     width: 100px;
+     height: 100px;  
 }
 
-#container{
-    width: 100%;
-    border-style: solid;
-    border-color:blue  ;
-    border-width: 2px;
-    display: inline-block;
-    
-}
-#mainCont{
-    border-style: solid;
-    border-color: #E7E7E7  ;
-    border-width: 2px;
-    width: 30%;
-   
-    margin: 0 auto;
+
+#mainCont {
+padding: 30px;
 }
